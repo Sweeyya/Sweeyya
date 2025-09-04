@@ -1,47 +1,47 @@
 # 🌌 Hi, I’m Sweeya  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=91DDFF&lines=AI+Builder;Product+Strategist;Creative+Technologist;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=91ddff&lines=AI+Builder;Product+Strategist;Creative+Technologist;Always+Learning)](https://git.io/typing-svg)
 
 ---
 
-## 🌱 What I’m up to
-- Learning: Machine Learning & AI product design  
-- Building: fun experiments in data, AI, and UX  
-- Exploring: how technology can tell better stories  
+## 🌠 What I’m up to
+- Learning: machine learning and AI product design  
+- Building: experiments in data, AI, and UX  
+- Exploring: how technology can connect ideas and people  
 
 ---
 
-## ⚡ Fun facts
+## ✨ Fun facts
 - Built a hackathon-winning app disguised as a weather app 🌦️  
-- Love blending design + code into playful experiments 🎭  
-- Obsessed with turning data into visuals 📊  
+- Love blending design and code into creative experiments 🎨  
+- Always turning data into visuals and stories 📊  
 
 ---
 
 ## 🛠 Tech
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-EF3E2D?logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF69B4?logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-191970?logo=python&logoColor=91ddff)
+![Swift](https://img.shields.io/badge/-Swift-91ddff?logo=swift&logoColor=191970)
+![React](https://img.shields.io/badge/-React-87CEFA?logo=react&logoColor=191970)
+![Next.js](https://img.shields.io/badge/-Next.js-191970?logo=nextdotjs&logoColor=91ddff)
+![AWS](https://img.shields.io/badge/-AWS-91ddff?logo=amazon-aws&logoColor=191970)
+![Databricks](https://img.shields.io/badge/-Databricks-87CEFA?logo=databricks&logoColor=191970)
+![SQL](https://img.shields.io/badge/-SQL-191970?logo=mysql&logoColor=91ddff)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-91ddff?logo=figma&logoColor=191970)
+
+---
+
+## 📖 Currently Learning
+- Advanced machine learning (sklearn, PyTorch basics)  
+- Cloud architecture with AWS  
+- Product management strategies for tech  
 
 ---
 
 ## 📊 GitHub Stats
-![Sweeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweeyya&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeyya&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sweeyya&theme=tokyonight&hide_border=true)
+![Sweeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweeyya&show_icons=true&theme=transparent&title_color=91ddff&icon_color=87CEFA&text_color=FFFFFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeyya&layout=compact&theme=transparent&title_color=91ddff&text_color=FFFFFF)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sweeyya&theme=transparent&ring=91ddff&fire=87CEFA&currStreakLabel=FFFFFF&sideLabels=FFFFFF)
 
 ---
 
-## 🎨 Creative Playground
-- 🪄 Tiny AI experiments (habit coaching, sentiment analysis)  
-- 🌲 Potion Pantry (cozy mobile game prototype)  
-- 🔮 Random data visualizers + weird projects I tinker with  
-
----
-
-✨ *Thanks for stopping by — follow along as I keep building, learning, and experimenting.*
+✨ Thanks for visiting!
