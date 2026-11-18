@@ -12,7 +12,7 @@
 
 ## about
 
-i study computer science at georgia state (class of 2027). i like building ai systems, making video games, and drawing. i'm a huge minecraft fan, i play a lot of clash royale and brawl stars, and one piece is my favorite show.
+i like making and playing games. minecraft is my favorite. i'm also starting an organization to help people around the world volunteer, especially for homelessness and the environment. i study computer science at georgia state (class of 2027), and i like to draw.
 
 ## right now
 
