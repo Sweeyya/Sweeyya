@@ -4,8 +4,6 @@
   <img src="assets/banner.svg" alt="hey, i'm sweeya. flowers, koi and a few bees" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=1000&color=E8855A&center=true&vCenter=true&width=700&height=45&lines=i+make+games+and+things+that+look+a+little+strange;ai+engineer.+builder.+drawer.;minecraft+fan.+one+piece+fan." alt="typing intro" />
-
 [site](https://sweeya.vercel.app) · [linkedin](https://www.linkedin.com/in/sweeyya)
 
 </div>
@@ -37,16 +35,16 @@ i study computer science at georgia state (class of 2027). i like building ai sy
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1417?style=for-the-badge&logo=python&logoColor=E8855A)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1417?style=for-the-badge&logo=pytorch&logoColor=E8855A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1417?style=for-the-badge&logo=typescript&logoColor=4AADA8)
-![React](https://img.shields.io/badge/React-0d1417?style=for-the-badge&logo=react&logoColor=4AADA8)
-![Next.js](https://img.shields.io/badge/Next.js-0d1417?style=for-the-badge&logo=nextdotjs&logoColor=f3ead7)
-![Three.js](https://img.shields.io/badge/Three.js-0d1417?style=for-the-badge&logo=threedotjs&logoColor=f3ead7)
-![Swift](https://img.shields.io/badge/Swift-0d1417?style=for-the-badge&logo=swift&logoColor=F4A460)
-![AWS](https://img.shields.io/badge/AWS-0d1417?style=for-the-badge&logo=amazon-aws&logoColor=F4A460)
-![GameMaker](https://img.shields.io/badge/GameMaker-0d1417?style=for-the-badge&logo=gamemaker&logoColor=F4A460)
-![Figma](https://img.shields.io/badge/Figma-0d1417?style=for-the-badge&logo=figma&logoColor=F4A460)
+![Python](https://img.shields.io/badge/Python-2a1520?style=for-the-badge&logo=python&logoColor=f4a9c4)
+![PyTorch](https://img.shields.io/badge/PyTorch-2a1520?style=for-the-badge&logo=pytorch&logoColor=f4a9c4)
+![TypeScript](https://img.shields.io/badge/TypeScript-2a1520?style=for-the-badge&logo=typescript&logoColor=f4a9c4)
+![React](https://img.shields.io/badge/React-2a1520?style=for-the-badge&logo=react&logoColor=f4a9c4)
+![Next.js](https://img.shields.io/badge/Next.js-2a1520?style=for-the-badge&logo=nextdotjs&logoColor=f4a9c4)
+![Three.js](https://img.shields.io/badge/Three.js-2a1520?style=for-the-badge&logo=threedotjs&logoColor=f4a9c4)
+![Swift](https://img.shields.io/badge/Swift-2a1520?style=for-the-badge&logo=swift&logoColor=f4a9c4)
+![AWS](https://img.shields.io/badge/AWS-2a1520?style=for-the-badge&logo=amazon-aws&logoColor=f4a9c4)
+![GameMaker](https://img.shields.io/badge/GameMaker-2a1520?style=for-the-badge&logo=gamemaker&logoColor=f4a9c4)
+![Figma](https://img.shields.io/badge/Figma-2a1520?style=for-the-badge&logo=figma&logoColor=f4a9c4)
 
 </div>
 
